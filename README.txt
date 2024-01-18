@@ -1,5 +1,5 @@
 # QR Code Scanner
--It just doesnt work, most like its my pc camera
+-It seems like there's an issue; my PC camera or lighting might be the culprit. I managed to get it to work for about 5 hours, successfully scanning 2-3 barcodes during that time. Some day...
 ## Overview
 This is a simple QR code scanner application implemented in Python using OpenCV and Tkinter.
 
