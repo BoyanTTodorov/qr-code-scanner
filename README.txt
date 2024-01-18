@@ -1,6 +1,7 @@
 # QR Code Scanner
-It appears there is an issue with either my PC camera or the lighting conditions, potentially causing difficulties. I was able to make it work for successfully scanning 2-3 barcodes. 
-However, the process becomes quite challenging. The initial intent was to explore the possibility of replacing traditional scanners in warehouses, making it more of an experimental endeavor.
+It seems there might be a challenge arising from either my PC camera or the prevailing lighting conditions, introducing potential difficulties, especially considering that I am currently utilizing a HUAWEI laptop. Despite the device, the converted image appears as a grayscale rendition, resembling a rabbit hole. I managed to successfully scan 2-3 barcodes, but the process has proven to be somewhat challenging.
+
+The primary objective was initially to investigate the feasibility of substituting traditional scanners in warehouse environments, turning it into more of an experimental undertaking.
 
 ## Overview
 This is a simple QR code scanner application implemented in Python using OpenCV and Tkinter.
